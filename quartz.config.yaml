@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: junebug-git.github.io
+  baseUrl: junebug-git.github.io/juneblog/
   ignorePatterns:
     - private
     - templates
