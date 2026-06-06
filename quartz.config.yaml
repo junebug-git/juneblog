@@ -197,12 +197,12 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: true
+    enabled: false
     options:
       provider: giscus
       options:
-        repo: TODO:username/repo-name
-        repoId: TODO:your-repo-id
+        repo: junebug-git/juneblog
+        repoId: 1261277390
         category: Announcements
         categoryId: TODO:your-category-id
         mapping: url
