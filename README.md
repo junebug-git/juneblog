@@ -1,3 +1,7 @@
+# juneblog
+This is my personal blog built with Quartz. The README for Quartz v5 is below.
+
+---
 # Quartz v5
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
