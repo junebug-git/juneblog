@@ -21,23 +21,23 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
+        light: "#fdf6e3"
+        lightgray: "#93a1a1"
+        gray: "#93a1a1"
+        darkgray: "#586e75"
+        dark: "#657b83"
+        secondary: "#b58900"
+        tertiary: "#cb4b16"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
+        light: "#002b36"
+        lightgray: "#586e75"
+        gray: "#586e75"
+        darkgray: "#93a1a1"
+        dark: "#839496"
+        secondary: "#b58900"
+        tertiary: "#cb4b16"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
@@ -136,7 +136,7 @@ plugins:
   - source: github:quartz-community/tag-page
     enabled: true
   - source: github:quartz-community/explorer
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
@@ -222,7 +222,7 @@ plugins:
     enabled: true
     options:
       title: Recent Notes
-      limit: 5
+      limit: 1
       linkToMore: false
       showTags: true
     layout:
