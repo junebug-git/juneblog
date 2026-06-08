@@ -71,8 +71,9 @@ plugins:
     enabled: true
     order: 50
     layout:
-      position: right
-      priority: 30
+      position: left
+      priority: 50
+      display: desktop-only
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -141,7 +142,7 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -216,18 +217,21 @@ plugins:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer
-    enabled: true
-    options: {}
-  - source: github:quartz-community/recent-notes
-    enabled: true
+    enabled: false
     options:
-      title: Recent Notes
-      limit: 1
+      links: 
+        Git: https://github.com/junebug-git/juneblog
+  - source: github:quartz-community/recent-notes
+    enabled: false
+    options:
+      title: Recent Additions
+      limit: 5
       linkToMore: false
       showTags: true
     layout:
       position: left
-      priority: 25
+      priority: 50
+      display: desktop-only
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
