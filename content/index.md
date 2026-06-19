@@ -1,6 +1,5 @@
 ---
 title: welcome
-date: 2026-06-06
 ---
 
 hi :3
