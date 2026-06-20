@@ -223,16 +223,15 @@ plugins:
       links: 
         Git: https://github.com/junebug-git/juneblog
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
     options:
-      title: Recent Additions
+      title: Recent Posts
       limit: 5
       linkToMore: false
-      showTags: true
+      showTags: false
     layout:
-      position: left
+      position: right
       priority: 50
-      display: desktop-only
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
