@@ -5,10 +5,6 @@ draft: false
 
 ---
 
+
 Fiction is a way for knowing the world. Fantasy is often viewed as the opposite of fact. Fantasy is make-believe, an escape from reality. Here the traditional boundary between fiction and fact blur. 
-
-Below are the posts where I use fiction as a way of exploring experience.
-
-## Stories
-+ [[mornings]]
 

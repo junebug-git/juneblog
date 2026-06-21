@@ -5,6 +5,8 @@ draft: false
 
 ---
 
+> tags: [[fiction]]
+
 _Vrrrrrrrrzzzzz_. 
 
 Darkness fills Persephone's vision, her dream fading away from view and memory as she slowly wakes up. Her bedroom windows filter in the morning twilight giving her just enough clarity to see her reflection in the mirror hanging from the wall. 
