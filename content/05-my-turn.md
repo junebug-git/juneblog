@@ -1,5 +1,5 @@
 ---
-title: 5. my turn
+title: my turn
 date: 2026-07-10
 draft: true
 

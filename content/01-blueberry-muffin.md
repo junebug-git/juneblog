@@ -1,5 +1,5 @@
 ---
-title: 1. blueberry muffin
+title: blueberry muffin
 date: 2026-07-01
 draft: false
 

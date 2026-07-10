@@ -1,5 +1,5 @@
 ---
-title: 2. philly
+title: philly
 date: 2026-07-04
 draft: false
 

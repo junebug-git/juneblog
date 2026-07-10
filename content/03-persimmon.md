@@ -1,5 +1,5 @@
 ---
-title: 3. persimmon
+title: persimmon
 date: 2026-07-05
 draft: false
 

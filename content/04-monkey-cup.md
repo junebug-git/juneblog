@@ -1,5 +1,5 @@
 ---
-title: 4. monkey cup
+title: monkey cup
 date: 2026-07-6
 draft: true
 
