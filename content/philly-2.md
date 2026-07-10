@@ -4,6 +4,7 @@ date: 2026-07-05
 draft: false
 
 ---
+> tags: [[espresso-summer]]
 
 After seeing [[philly.md|yesterday's disappointing coffee]], my girlfriend spent the morning before I woke up researching acceptable espresso places in the city. She landed on Persimmon Coffee in Fishtown. In contrast to yesterday's scathing coffee review, the double shot I ordered at Persimmon Coffee came out mundane. It was a drinkable espresso. The flavor profile was on the acidic end, verging on being too sour.
 
